@@ -1,0 +1,15 @@
+- math
+- pdb(debugger)
+- ipywidgets
+- datetime
+- bs4(beautiful soup)
+- numpy
+- pandas
+- re(regex)
+- Object Oriented Programming
+- lxml
+- sqlalchemy
+- matplotlib
+- plotly
+- cufflinks
+- scikit learn
